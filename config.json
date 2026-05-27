@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercelete",
+        "uuid": 10842788,
+        "checksum": "dy3py2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
